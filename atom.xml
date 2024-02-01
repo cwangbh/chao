@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Chao WANG</title>
+  <title>Hexo</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-02-01T16:34:58.624Z</updated>
+  <updated>2024-02-01T16:37:56.032Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>科学革命的结构</title>
-    <link href="http://example.com/2024/02/02/%E4%B8%8D%E5%AE%9A%E6%97%B6%E5%B7%A5%E6%97%B6/"/>
-    <id>http://example.com/2024/02/02/%E4%B8%8D%E5%AE%9A%E6%97%B6%E5%B7%A5%E6%97%B6/</id>
-    <published>2024-02-01T16:34:58.000Z</published>
-    <updated>2024-02-01T16:34:58.624Z</updated>
+    <title>海龟交易法则</title>
+    <link href="http://example.com/2024/02/02/%E6%B5%B7%E9%BE%9F%E4%BA%A4%E6%98%93%E6%B3%95%E5%88%99/"/>
+    <id>http://example.com/2024/02/02/%E6%B5%B7%E9%BE%9F%E4%BA%A4%E6%98%93%E6%B3%95%E5%88%99/</id>
+    <published>2024-02-01T16:37:56.000Z</published>
+    <updated>2024-02-01T16:37:56.032Z</updated>
     
     <content type="html"><![CDATA[<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote><ul><li><a href=""></a></li><li><a href=""></a></li></ul></blockquote>]]></content>
     
@@ -32,6 +32,26 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/l</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2024/02/02/README/"/>
+    <id>http://example.com/2024/02/02/README/</id>
+    <published>2024-02-01T16:37:05.367Z</published>
+    <updated>2024-02-01T16:37:05.368Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="chao"><a href="#chao" class="headerlink" title="chao"></a>chao</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;chao&quot;&gt;&lt;a href=&quot;#chao&quot; class=&quot;headerlink&quot; title=&quot;chao&quot;&gt;&lt;/a&gt;chao&lt;/h1&gt;</summary>
       
     
     
