@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Wang Chao</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Wang Chao</name>
     
   </author>
   
@@ -32,26 +32,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/l</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://example.com/2024/02/02/README/"/>
-    <id>http://example.com/2024/02/02/README/</id>
-    <published>2024-02-01T16:37:05.367Z</published>
-    <updated>2024-02-01T16:37:05.368Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="chao"><a href="#chao" class="headerlink" title="chao"></a>chao</h1>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;chao&quot;&gt;&lt;a href=&quot;#chao&quot; class=&quot;headerlink&quot; title=&quot;chao&quot;&gt;&lt;/a&gt;chao&lt;/h1&gt;</summary>
       
     
     
