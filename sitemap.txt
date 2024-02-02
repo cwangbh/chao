@@ -1,6 +1,4 @@
-http://example.com/2024/02/02/%E6%B5%B7%E9%BE%9F%E4%BA%A4%E6%98%93%E6%B3%95%E5%88%99/
 http://example.com/tags/index.html
 http://example.com/categories/index.html
 http://example.com/about/index.html
 http://example.com/
-http://example.com/categories/fun/
