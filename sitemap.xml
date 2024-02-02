@@ -48,4 +48,11 @@
   
 
   
+  <url>
+    <loc>http://example.com/categories/fun/</loc>
+    <lastmod>2024-02-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 </urlset>

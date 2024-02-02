@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-02-01T16:37:56.032Z</updated>
+  <updated>2024-02-01T17:04:45.312Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2024/02/02/%E6%B5%B7%E9%BE%9F%E4%BA%A4%E6%98%93%E6%B3%95%E5%88%99/"/>
     <id>http://example.com/2024/02/02/%E6%B5%B7%E9%BE%9F%E4%BA%A4%E6%98%93%E6%B3%95%E5%88%99/</id>
     <published>2024-02-01T16:37:56.000Z</published>
-    <updated>2024-02-01T16:37:56.032Z</updated>
+    <updated>2024-02-01T17:04:45.312Z</updated>
     
     <content type="html"><![CDATA[<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote><ul><li><a href=""></a></li><li><a href=""></a></li></ul></blockquote>]]></content>
     
@@ -35,6 +35,8 @@
       
     
     
+    
+    <category term="fun" scheme="http://example.com/categories/fun/"/>
     
     
   </entry>
